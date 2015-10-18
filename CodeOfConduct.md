@@ -1,6 +1,6 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future. This is based on the Front-end London Slack's Code of Conduct, that nicely explains some common guidelines for Slack Communities*
+*This policy is a "living" document, and subject to refinement and expansion in the future. This is based on the Front-end London Slack's Code of Conduct, that nicely explains some common guidelines for Chat Communities*
 
-The **EmberJS Community Slack** should be a safe place for everybody regardless of
+The **EmberJS Community Chat** should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -10,7 +10,7 @@ The **EmberJS Community Slack** should be a safe place for everybody regardless 
 - age
 - religion
 
-As someone who is part of this Slack, you agree that:
+As someone who is part of this Community, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
@@ -48,6 +48,6 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Ryan Cromwell - @cromwellryan
+* Jordan Hawker (@Jordan)
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Chat unless it is required as a result of a discussed dispute.*
